@@ -37,6 +37,7 @@ $ mvn spring-boot:run
 - IDE preparada para desenvolvimento em Java
 - Docker e WSL (Caso queira rodar o projeto virtualmente em um máquina windows)
 - PostgreSQL, MySQL, etc (Caso queira salvar os dados em um banco de dados específico)
+- Utilize ferramentas como cURL, Postman ou qualquer cliente REST para enviar solicitações à API.
 ```
 
 ## 🔖 Layout
