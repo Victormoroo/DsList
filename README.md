@@ -35,7 +35,7 @@ $ mvn spring-boot:run
 ```
 - Java JDK
 - IDE preparada para desenvolvimento em Java
-- Docker (Caso queira rodar o projeto em um ambiente virtual)
+- Docker e WSL (Caso queira rodar o projeto virtualmente em um máquina windows)
 - PostgreSQL, MySQL, etc (Caso queira salvar os dados em um banco de dados específico)
 ```
 
